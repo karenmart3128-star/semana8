@@ -6,4 +6,4 @@ los comandos en ese momento.
 
 Conocer esta información es útil al administrar un servidor porque
 permite identificar el entorno de trabajo, verificar permisos y
-detectar posibles problemas de compatibilidad o seguridad.
+detectar posibles problemas de compatibilidad o seguridad. 
